@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coches>
+    <coche>
+        <autores>
+            <fabricante>
+                <nombre>Ray</nombre>
+                <apellido1>Douglas</apellido1>
+                <apellido2>Bladbury</apellido2>
+            </fabricante>
+        </autores>
+        <titulo>Crónicas marcianas</titulo>
+        <editorial>Doubleday and Company</editorial>
+        <fechaPublicacion>04/05/1955</fechaPublicacion>
+        <ISBM>9788445076538</ISBM>
+    </coche>
+    <coche>
+        <autores>
+            <fabricante>
+                <nombre>Franklin</nombre>
+                <apellido1>Patrick</apellido1>
+                <apellido2>Herbert</apellido2>
+            </fabricante>
+        </autores>
+        <titulo>Dune</titulo>
+        <editorial>Chilton Books</editorial>
+        <fechaPublicacion>1965</fechaPublicacion>
+        <ISBM>9788466362818</ISBM>
+    </coche>
+    <coche>
+        <autores>
+            <autor>
+                <nombre>Joël</nombre>
+                <apellido1>Dicker</apellido1>
+            </autor>
+        </autores>
+        <titulo>La verdad sobre el caso Harry Quebert</titulo>
+        <editorial>Éditions de Fallois</editorial>
+        <fechaPublicacion>19/09/2012</fechaPublicacion>
+        <ISBM>9788466332286</ISBM>
+    </coche>
+    <coche>
+        <fabricantes>
+            <autor>
+                <nombre>Eva</nombre>
+                <apellido1>García</apellido1>
+                <apellido2>Sáenz</apellido2>
+            </autor>
+        </fabricantes>
+        <titulo>El silencio de la ciudad blanca</titulo>
+        <editorial>Editorial Planeta</editorial>
+        <fechaPublicacion>2016</fechaPublicacion>
+        <ISBM>9788408154167</ISBM>
+    </coche>
+    <coche>
+        <autores>
+            <autor>
+                <nombre>Arturo</nombre>
+                <apellido1>Pérez</apellido1>
+                <apellido2>Reverte</apellido2>
+            </autor>
+        </autores>
+        <titulo>El club Dumas</titulo>
+        <editorial>DEBOLSILLO</editorial>
+        <fechaPublicacion>1993</fechaPublicacion>
+        <ISBM>9788466320702</ISBM>
+    </coche>
+    <coche>
+        <autores>
+            <autor>
+                <nombre>Susana</nombre>
+                <apellido1>Martin</apellido1>
+                <apellido2>Gijon</apellido2>
+            </autor>
+        </autores>
+        <titulo>La babilonia 1580</titulo>
+        <editorial>ALFAGUARA</editorial>
+        <fechaPublicacion>29/08/2023</fechaPublicacion>
+        <ISBM>9788420470443</ISBM>
+    </coche>
+    <coche>
+        <autores>
+            <autor>
+                <nombre>Arturo</nombre>
+                <apellido1>Pérez</apellido1>
+                <apellido2>Reverte</apellido2>
+            </autor>
+        </autores>
+        <titulo>El problema final</titulo>
+        <editorial>ALFAGUARA</editorial>
+        <fechaPublicacion>05/09/2023</fechaPublicacion>
+        <ISBM>9788420476360</ISBM>
+    </coche>
+    <coche>
+        <autores>
+            <autor>
+                <nombre>Jeffrey</nombre>
+                <apellido1>Jacob</apellido1>
+                <apellido2>Abrams</apellido2>
+            </autor>
+            <autor>
+                <nombre>Doug</nombre>
+                <apellido1>Dorst</apellido1>
+            </autor>
+        </autores>
+        <titulo>S. El barco de teseo</titulo>
+        <editorial>Duomo Editorial</editorial>
+        <fechaPublicacion>30/10/2023</fechaPublicacion>
+        <ISBM>9788419521491</ISBM>
+    </coche>
+    <coche>
+        <autores>
+            <autor>
+                <nombre>Juan</nombre>
+                <apellido1>Gomez</apellido1>
+                <apellido2>Jurado</apellido2>
+            </autor>
+        </autores>
+        <titulo>Todo vuelve</titulo>
+        <editorial>Ediciones B</editorial>
+        <fechaPublicacion>24/10/2023</fechaPublicacion>
+        <ISBM>9788466675680</ISBM>
+    </coche>
+    <coche>
+        <autores>
+            <autor>
+                <nombre>Kenneth</nombre>
+                <apellido1>Martin</apellido1>
+                <apellido2>Follett</apellido2>
+            </autor>
+        </autores>
+        <titulo></titulo>
+        <editorial>La armadurar de la luz</editorial>
+        <fechaPublicacion>26/09/2023</fechaPublicacion>
+        <ISBM>9788401030130</ISBM>
+    </coche>
+</coches>

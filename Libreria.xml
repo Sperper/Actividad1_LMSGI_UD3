@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:l="Genero del libro" xmlns:a="Genero del autor">
+<libros>
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Ray</nombre>
+                <apellido1>Douglas</apellido1>
+                <apellido2>Bladbury</apellido2>
+                <a:genero>Hombre</a:genero>
+            </autor>
+        </autores>
+        <titulo>Crónicas marcianas</titulo>
+        <editorial>Doubleday and Company</editorial>
+        <fechaPublicacion>04/05/1955</fechaPublicacion>
+        <l:genero>Ficcion</l:genero>
+        <ISBM>9788445076538</ISBM>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Franklin</nombre>
+                <apellido1>Patrick</apellido1>
+                <apellido2>Herbert</apellido2>
+                <a:genero>Hombre</a:genero>
+            </autor>
+        </autores>
+        <titulo>Dune</titulo>
+        <editorial>Chilton Books</editorial>
+        <l:genero>Ficcion</l:genero>
+        <fechaPublicacion>1965</fechaPublicacion>
+        <ISBM>9788466362818</ISBM>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Joël</nombre>
+                <apellido1>Dicker</apellido1>
+                <a:genero>Hombre</a:genero>
+            </autor>
+        </autores>
+        <titulo>La verdad sobre el caso Harry Quebert</titulo>
+        <editorial>Éditions de Fallois</editorial>
+        <l:genero>Misterio</l:genero>
+        <fechaPublicacion>19/09/2012</fechaPublicacion>
+        <ISBM>9788466332286</ISBM>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Eva</nombre>
+                <apellido1>García</apellido1>
+                <apellido2>Sáenz</apellido2>
+                <a:genero>Mujer</a:genero>
+            </autor>
+        </autores>
+        <titulo>El silencio de la ciudad blanca</titulo>
+        <editorial>Editorial Planeta</editorial>
+        <fechaPublicacion>2016</fechaPublicacion>
+        <ISBM>9788408154167</ISBM>
+        <l:genero>Misterio</l:genero>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Arturo</nombre>
+                <apellido1>Pérez</apellido1>
+                <apellido2>Reverte</apellido2>
+                <a:genero>Hombre</a:genero>
+            </autor>
+        </autores>
+        <titulo>El club Dumas</titulo>
+        <editorial>DEBOLSILLO</editorial>
+        <fechaPublicacion>1993</fechaPublicacion>
+        <ISBM>9788466320702</ISBM>
+        <l:genero>Misterio</l:genero>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Susana</nombre>
+                <apellido1>Martin</apellido1>
+                <apellido2>Gijon</apellido2>
+                <a:genero>Mujer</a:genero>
+            </autor>
+        </autores>
+        <titulo>La babilonia 1580</titulo>
+        <editorial>ALFAGUARA</editorial>
+        <fechaPublicacion>29/08/2023</fechaPublicacion>
+        <ISBM>9788420470443</ISBM>
+        <l:genero>Aventuras</l:genero>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Arturo</nombre>
+                <apellido1>Pérez</apellido1>
+                <apellido2>Reverte</apellido2>
+                <a:genero>Hombre</a:genero>
+            </autor>
+        </autores>
+        <titulo>El problema final</titulo>
+        <editorial>ALFAGUARA</editorial>
+        <fechaPublicacion>05/09/2023</fechaPublicacion>
+        <ISBM>9788420476360</ISBM>
+        <l:genero>Misterio</l:genero>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Jeffrey</nombre>
+                <apellido1>Jacob</apellido1>
+                <apellido2>Abrams</apellido2>
+                <a:genero>Hombre</a:genero>
+            </autor>
+            <autor>
+                <nombre>Doug</nombre>
+                <apellido1>Dorst</apellido1>
+                <a:genero>Hombre</a:genero>
+            </autor>
+        </autores>
+        <titulo>S. El barco de teseo</titulo>
+        <editorial>Duomo Editorial</editorial>
+        <fechaPublicacion>30/10/2023</fechaPublicacion>
+        <ISBM>9788419521491</ISBM>
+        <l:genero>Ciencia ficcion</l:genero>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Juan</nombre>
+                <apellido1>Gomez</apellido1>
+                <apellido2>Jurado</apellido2>
+                <a:genero>Hombre</a:genero>
+            </autor>
+        </autores>
+        <titulo>Todo vuelve</titulo>
+        <editorial>Ediciones B</editorial>
+        <fechaPublicacion>24/10/2023</fechaPublicacion>
+        <ISBM>9788466675680</ISBM>
+        <l:genero>Misterio</l:genero>
+    </libro>
+    <libro>
+        <autores>
+            <autor>
+                <nombre>Kenneth</nombre>
+                <apellido1>Martin</apellido1>
+                <apellido2>Follett</apellido2>
+                <a:genero></a:genero>
+            </autor>
+        </autores>
+        <titulo>La armadura de la luz</titulo>
+        <editorial>Plaza and Janes editores</editorial>
+        <fechaPublicacion>26/09/2023</fechaPublicacion>
+        <ISBM>9788401030130</ISBM>
+        <l:genero>Misterio</l:genero>
+    </libro>
+</libros>
+</root>
